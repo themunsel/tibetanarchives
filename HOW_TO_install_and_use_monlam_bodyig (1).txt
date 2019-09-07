@@ -1,0 +1,77 @@
+Installing Monlam bodyig v.3 (xp and vista)
+===========================================
+
+This "Monlam bodyig" installer is more than just the Monlam font.
+It has:
+    - the many beautiful Monlam fonts.
+    - a keyboard input program ("IME")
+    - a helpful PDF file with more info.
+    
+The source, and latest files, are at http://lobsangmonlam.org/
+
+How to install:
+-------------- 
+
+1. Copy Monlam_bodyig-v.3-xp_and_vista.exe
+    to your hard drive
+
+2. Install: double-click on the icon. Then ...
+
+First window:
+  Windows    Macintosh
+      |
+      v
+Second window:
+ 1st icon   vase: 
+    Click here to: install monlam bodyig v.3 fonts
+            
+ 2nd icon   globe/clock:
+    This is for "usp10.dll" - you probably have it, and don't need to install this one.
+    (I think it is for converting windows tools (math, calendar, maybe folder names) to tibetan)
+        |
+        v
+        "Windows/Vista"
+            |
+            v
+            Vista icon
+                dunno yet ...
+            OR ...
+            |
+            v
+            XP icon - "USP 10"
+                usp10.dll comes with Windows Service packs, so you probably have it.
+                You can search your computer, search for usp10.dll
+                I found several on mine!
+            
+ 3rd icon   keyboard      
+            Installs keyboard input program.
+            There are four choices:
+                monlam (v1) / tcrc
+                da ...
+                hi yig
+                monlam (v2) 
+            (You can choose any or all)
+
+Restart your computer
+  
+  
+3. To use ...
+
+Fonts 
+-----
+  They are in your Control Panel -> Fonts
+  and should appear in font menus in all your programs.
+  You should be able to see any file now in BodYig.
+
+Keyboard (IME)
+--------------
+    * right-click on taskbar
+    * select Toolbars -> Language bar
+    * click on language bar -> Should show one or more tibetan keyboards
+        (depending on what you selected when installed keyboard.
+        > Select one (monlam bodyig)
+    (You can also do ctrl-shift to switch languages)
+  
+
+  
+--0--
